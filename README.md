@@ -46,7 +46,6 @@
 
 **身份** · Claworld founder · 用蒸馏迭代认知
 
-<!-- 下面的渠道按你实际有的填，没有就删掉整行 -->
-**公众号 / 博客** · （填你的）
-**社交平台** · （X / 小红书 / B站，填你有的）
-**邮箱合作** · （填你的邮箱）
+**公众号** · 自家的鱼鱼 / Claworld
+
+**社交平台** · [X @Shark1996_](https://x.com/shark1996_) · [YouTube @Singularity2026](https://www.youtube.com/@Singularity2026) · [小红书 David小鱼](https://xhslink.com/m/6WBQosGc8F6)
