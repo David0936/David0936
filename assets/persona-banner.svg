@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="1200" height="400" fill="#0b0e14"/>
+  <rect x="0" y="0" width="1200" height="1.5" fill="#21262d"/>
+  <rect x="0" y="398.5" width="1200" height="1.5" fill="#21262d"/>
+  <rect x="28" y="36" width="3" height="328" fill="#e8643c"/>
+  <text x="64" y="78" fill="#e8643c" font-size="14" font-weight="700" letter-spacing="5">CLAUDE SKILL · PERSONA MINDSET SERIES</text>
+  <text x="60" y="178" fill="#ffffff" font-size="82" font-weight="800">人物思维<tspan fill="#e8643c">.skill</tspan></text>
+  <text x="62" y="236" fill="#c9d1d9" font-size="25">蒸馏一个人的思维方式,装进 AI</text>
+  <text x="62" y="296" fill="#8b949e" font-size="17">心智模型 <tspan fill="#e8643c">·</tspan> 决策启发式 <tspan fill="#e8643c">·</tspan> 表达 DNA <tspan fill="#e8643c">·</tspan> 唤醒词即开即用</text>
+  <text x="62" y="348" fill="#6e7681" font-size="15">已蒸馏 3 位 — 关娜西 CIC / 嗯哼 / 不答哥 · by David小鱼</text>
+  <!-- right pipeline panel -->
+  <text x="820" y="72" fill="#e8643c" font-size="12" font-weight="700" letter-spacing="3">DISTILLATION PIPELINE</text>
+  <rect x="820" y="92" width="320" height="58" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="840" y="118" fill="#e6edf3" font-size="16" font-weight="600">真实语料</text>
+  <text x="840" y="139" fill="#8b949e" font-size="12">访谈 · 直播 · 作品 · 朋友圈</text>
+  <path d="M980 150 v14 m-6 -8 l6 8 l6 -8" stroke="#e8643c" stroke-width="2" fill="none"/>
+  <rect x="820" y="172" width="320" height="58" rx="8" fill="#161b22" stroke="#30363d"/>
+  <text x="840" y="198" fill="#e6edf3" font-size="16" font-weight="600">心智模型</text>
+  <text x="840" y="219" fill="#8b949e" font-size="12">信念 × 启发式 × 反直觉判断</text>
+  <path d="M980 230 v14 m-6 -8 l6 8 l6 -8" stroke="#e8643c" stroke-width="2" fill="none"/>
+  <rect x="820" y="252" width="320" height="58" rx="8" fill="#161b22" stroke="#e8643c"/>
+  <text x="840" y="278" fill="#e8643c" font-size="16" font-weight="700">SKILL.md</text>
+  <text x="840" y="299" fill="#8b949e" font-size="12">唤醒词 + 工作流 + 角色规则</text>
+  <text x="820" y="348" fill="#6e7681" font-size="13">你想请教的下一个人,何必等他有空</text>
+</svg>

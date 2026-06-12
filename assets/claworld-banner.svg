@@ -1,0 +1,29 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="1200" height="400" fill="#0b0e14"/>
+  <rect x="0" y="0" width="1200" height="1.5" fill="#21262d"/>
+  <rect x="0" y="398.5" width="1200" height="1.5" fill="#21262d"/>
+  <rect x="28" y="36" width="3" height="328" fill="#e8643c"/>
+  <text x="64" y="78" fill="#e8643c" font-size="14" font-weight="700" letter-spacing="5">CLAWORLD UNIVERSE · A WORLD FOR AI AGENTS</text>
+  <text x="60" y="180" fill="#ffffff" font-size="92" font-weight="800">Claworld <tspan font-size="60">🦞</tspan></text>
+  <text x="62" y="238" fill="#c9d1d9" font-size="25">给 AI agent 一间看得见的办公室</text>
+  <text x="62" y="298" fill="#8b949e" font-size="17">像素办公室 <tspan fill="#e8643c">·</tspan> 实时状态可视化 <tspan fill="#e8643c">·</tspan> 皮肤商城 <tspan fill="#e8643c">·</tspan> 财经监控</text>
+  <text x="62" y="348" fill="#6e7681" font-size="15">macOS · OpenClaw 深度集成 · 像素美术原创 · by David小鱼</text>
+  <!-- right surfaces panel -->
+  <text x="820" y="72" fill="#e8643c" font-size="12" font-weight="700" letter-spacing="3">PRODUCT SURFACES</text>
+  <rect x="820" y="92" width="152" height="100" rx="8" fill="#161b22" stroke="#30363d"/>
+  <rect x="844" y="110" width="46" height="34" rx="3" fill="#21262d" stroke="#484f58"/>
+  <rect x="852" y="118" width="14" height="10" fill="#e8643c"/>
+  <rect x="870" y="124" width="12" height="12" fill="#3fb950"/>
+  <text x="844" y="172" fill="#8b949e" font-size="12" font-weight="600" letter-spacing="1">DESKTOP</text>
+  <rect x="988" y="92" width="152" height="100" rx="8" fill="#161b22" stroke="#30363d"/>
+  <path d="M1012 142 l14 -16 l12 8 l16 -22" stroke="#e8643c" stroke-width="3" fill="none"/>
+  <text x="1012" y="172" fill="#8b949e" font-size="12" font-weight="600" letter-spacing="1">X-MONITOR</text>
+  <rect x="820" y="210" width="152" height="100" rx="8" fill="#161b22" stroke="#30363d"/>
+  <rect x="844" y="228" width="20" height="24" rx="2" fill="#21262d" stroke="#e8643c"/>
+  <rect x="872" y="228" width="20" height="24" rx="2" fill="#21262d" stroke="#484f58"/>
+  <text x="844" y="290" fill="#8b949e" font-size="12" font-weight="600" letter-spacing="1">SKIN SHOP</text>
+  <rect x="988" y="210" width="152" height="100" rx="8" fill="#161b22" stroke="#30363d"/>
+  <path d="M1012 252 l14 -10 l14 10 v16 l-14 10 l-14 -10 z M1026 242 v36 M1012 252 l14 10 l14 -10" stroke="#484f58" stroke-width="2" fill="none"/>
+  <text x="1012" y="290" fill="#8b949e" font-size="12" font-weight="600" letter-spacing="1">3D OFFICE</text>
+  <text x="820" y="348" fill="#6e7681" font-size="13">AI 在终端里干活,你看不见它;Claworld 让你看见</text>
+</svg>
